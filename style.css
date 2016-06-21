@@ -6,17 +6,17 @@ body {
 
 .chart {
   position: absolute;
-  width: 450px;
-  height: 450px;
+  width: 245px;
+  height: 245px;
   top: 50%;
   left: 50%;
-  margin: -225px 0 0 -225px;
+  margin: auto;
 }
 
 .doughnutTip {
   position: absolute;
   min-width: 30px;
-  max-width: 300px;
+  max-width: 245px;
   padding: 5px 15px;
   border-radius: 1px;
   background: rgba(0, 0, 0, 0.8);
